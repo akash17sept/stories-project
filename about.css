@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    background-color: lightgray;
+}
+
+nav {
+    background-color: rgb(21, 41,79);
+    text-align: center;
+    height: 25px;
+    padding: 16px;
+    font-size: 24px;
+}
+
+.title-link {
+    color: white;
+    margin: 0 24px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.paragraph {
+    font-size: 20px;
+    padding: 0 200px;
+}
+
+footer {
+    height: 60px;
+    background-color: rgb(21, 41,79);
+    margin-top: 50px;
+}
